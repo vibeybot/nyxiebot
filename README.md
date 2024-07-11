@@ -1,5 +1,5 @@
-Privacy Policy for Nyxie
-This privacy policy outlines how [Your Discord Bot Name] ("the bot") collects, uses, and discloses information from users on the Discord platform. The bot offers features like antinuke, automod, selfroles, ticketing, autoroles, and moderation.
+Privacy Policy for Vibey
+This privacy policy outlines how Vibey (Vibey) collects, uses, and discloses information from users on the Discord platform. The bot offers features like antinuke, automod, selfroles, ticketing, autoroles, and moderation.
 
 Information Collected:
 
